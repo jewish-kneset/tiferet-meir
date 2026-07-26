@@ -5,7 +5,7 @@ backend:
   base_url: https://kneset-oauth.kneset.workers.dev
   auth_endpoint: /auth
 
-logo_url: /logo.svg
+logo_url: /tiferet-meir/logo.svg
 
 media_folder: "presentations"
 public_folder: "/presentations"
