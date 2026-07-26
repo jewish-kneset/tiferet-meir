@@ -1,0 +1,92 @@
+backend:
+  name: github
+  repo: jewish-kneset/tiferet-meir
+  branch: main
+  base_url: https://kneset-oauth.kneset.workers.dev
+  auth_endpoint: /auth
+
+logo_url: /logo.svg
+
+media_folder: "presentations"
+public_folder: "/presentations"
+
+collections:
+  - name: "settings"
+    label: "Synagogue Configuration"
+    files:
+      - name: "config"
+        label: "Main Config"
+        file: "config.json"
+        fields:
+          - {label: "Tenant ID", name: "tenant.id", widget: "string"}
+          - {label: "Display Name", name: "tenant.displayName", widget: "string"}
+
+          - label: "Display Settings"
+            name: "displaySettings"
+            widget: "object"
+            fields:
+              - {label: "Dashboard Duration (sec)", name: "mainDashboardDurationSeconds", widget: "number"}
+              - {label: "Presentation Duration (sec)", name: "presentationDurationSeconds", widget: "number"}
+
+          - label: "Weekly Schedule"
+            name: "weeklySchedule"
+            widget: "object"
+            fields:
+              - label: "Sunday Events"
+                name: "sunday"
+                widget: "list"
+                fields:
+                  - {label: "Time", name: "time", widget: "string", hint: "e.g. 06:30"}
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Type", name: "type", widget: "select", options: ["tefilla", "shiur", "event"]}
+              - label: "Monday Events"
+                name: "monday"
+                widget: "list"
+                fields:
+                  - {label: "Time", name: "time", widget: "string"}
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Type", name: "type", widget: "select", options: ["tefilla", "shiur", "event"]}
+              - label: "Tuesday Events"
+                name: "tuesday"
+                widget: "list"
+                fields:
+                  - {label: "Time", name: "time", widget: "string"}
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Type", name: "type", widget: "select", options: ["tefilla", "shiur", "event"]}
+              - label: "Wednesday Events"
+                name: "wednesday"
+                widget: "list"
+                fields:
+                  - {label: "Time", name: "time", widget: "string"}
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Type", name: "type", widget: "select", options: ["tefilla", "shiur", "event"]}
+              - label: "Thursday Events"
+                name: "thursday"
+                widget: "list"
+                fields:
+                  - {label: "Time", name: "time", widget: "string"}
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Type", name: "type", widget: "select", options: ["tefilla", "shiur", "event"]}
+              - label: "Friday Events"
+                name: "friday"
+                widget: "list"
+                fields:
+                  - {label: "Time", name: "time", widget: "string"}
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Type", name: "type", widget: "select", options: ["tefilla", "shiur", "event"]}
+              - label: "Shabbat Events"
+                name: "shabbat"
+                widget: "list"
+                fields:
+                  - {label: "Time", name: "time", widget: "string"}
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Type", name: "type", widget: "select", options: ["tefilla", "shiur", "event"]}
+
+          - label: "Active Presentations (PDFs/Images)"
+            name: "activePresentations"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "File", name: "file", widget: "file"}
+              - {label: "Type", name: "type", widget: "select", options: ["pdf", "image"]}

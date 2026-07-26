@@ -1,0 +1,45 @@
+{
+  "tenant": {
+    "id": "tiferet-meir",
+    "displayName": "תפארת מאיר"
+  },
+  "displaySettings": {
+    "mainDashboardDurationSeconds": 60,
+    "presentationDurationSeconds": 20
+  },
+  "weeklySchedule": {
+    "sunday": [
+      { "time": "06:30", "title": "שחרית", "type": "tefilla" },
+      { "time": "20:00", "title": "דף יומי", "type": "shiur" },
+      { "time": "21:00", "title": "ערבית", "type": "tefilla" }
+    ],
+    "monday": [
+      { "time": "06:20", "title": "שחרית (קריאת התורה)", "type": "tefilla" },
+      { "time": "21:00", "title": "ערבית", "type": "tefilla" }
+    ],
+    "tuesday": [
+      { "time": "06:30", "title": "שחרית", "type": "tefilla" },
+      { "time": "21:00", "title": "ערבית", "type": "tefilla" }
+    ],
+    "wednesday": [
+      { "time": "06:30", "title": "שחרית", "type": "tefilla" },
+      { "time": "21:00", "title": "ערבית", "type": "tefilla" }
+    ],
+    "thursday": [
+      { "time": "06:20", "title": "שחרית (קריאת התורה)", "type": "tefilla" },
+      { "time": "20:00", "title": "שיעור פרשת השבוע", "type": "shiur" },
+      { "time": "21:00", "title": "ערבית", "type": "tefilla" }
+    ],
+    "friday": [
+      { "time": "06:30", "title": "שחרית", "type": "tefilla" },
+      { "time": "18:30", "title": "מנחה וקבלת שבת", "type": "tefilla" }
+    ],
+    "shabbat": [
+      { "time": "08:00", "title": "שחרית", "type": "tefilla" },
+      { "time": "10:30", "title": "קידוש", "type": "event" },
+      { "time": "17:30", "title": "מנחה", "type": "tefilla" },
+      { "time": "18:45", "title": "ערבית והבדלה", "type": "tefilla" }
+    ]
+  },
+  "activePresentations": []
+}
