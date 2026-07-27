@@ -130,6 +130,11 @@
       "title": "ChatGPT Image Jul 16, 2026, 05_12_10 PM",
       "file": "/presentations/1785078255004-chatgpt-image-jul-16-2026-05_12_10-pm.png",
       "type": "image"
+    },
+    {
+      "title": "presentation",
+      "file": "/presentations/1785142965333-presentation.jpg",
+      "type": "image"
     }
   ],
   "presentationLibrary": [
@@ -140,6 +145,14 @@
       "type": "image",
       "active": true,
       "order": 0
+    },
+    {
+      "id": "prs_ms3014xk_0",
+      "title": "presentation",
+      "file": "/presentations/1785142965333-presentation.jpg",
+      "type": "image",
+      "active": true,
+      "order": 1
     }
   ]
 }
