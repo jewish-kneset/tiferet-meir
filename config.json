@@ -125,21 +125,6 @@
       }
     ]
   },
-  "activePresentations": [
-    {
-      "title": "presentation",
-      "file": "/presentations/1785142965333-presentation.jpg",
-      "type": "image"
-    }
-  ],
-  "presentationLibrary": [
-    {
-      "id": "prs_ms3014xk_0",
-      "title": "presentation",
-      "file": "/presentations/1785142965333-presentation.jpg",
-      "type": "image",
-      "active": true,
-      "order": 1
-    }
-  ]
+  "activePresentations": [],
+  "presentationLibrary": []
 }
