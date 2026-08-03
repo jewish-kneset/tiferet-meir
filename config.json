@@ -129,19 +129,21 @@
   "presentationLibrary": [],
   "messageLibrary": [
     {
-      "id": "msg_msc8gsyb_0",
+      "id": "msg_msdmqy5w_0",
       "type": "announcement",
-      "title": "נריה",
-      "body": "תרמה שקל תשעים לזכות הבית כנסת",
+      "title": "הילולת אור החיים הקדוש",
+      "body": "בית הכנסת יקיים את ההילולה בתאריך ....",
       "active": true,
-      "order": 0
+      "order": 0,
+      "durationSeconds": 100
     }
   ],
   "activeMessages": [
     {
       "type": "announcement",
-      "title": "נריה",
-      "body": "תרמה שקל תשעים לזכות הבית כנסת"
+      "title": "הילולת אור החיים הקדוש",
+      "body": "בית הכנסת יקיים את ההילולה בתאריך ....",
+      "durationSeconds": 100
     }
   ]
 }
