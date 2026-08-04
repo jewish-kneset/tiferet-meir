@@ -125,42 +125,6 @@
       }
     ]
   },
-  "activePresentations": [
-    {
-      "title": "IMG-20260803-WA0025",
-      "file": "/presentations/1785785814991-img-20260803-wa0025.jpg",
-      "type": "image",
-      "durationSeconds": 5
-    }
-  ],
-  "presentationLibrary": [
-    {
-      "id": "prs_msdmrq0f_0",
-      "title": "IMG-20260803-WA0025",
-      "file": "/presentations/1785785814991-img-20260803-wa0025.jpg",
-      "type": "image",
-      "active": true,
-      "order": 0,
-      "durationSeconds": 5
-    }
-  ],
-  "messageLibrary": [
-    {
-      "id": "msg_msdmqy5w_0",
-      "type": "announcement",
-      "title": "הילולת אור החיים הקדוש",
-      "body": "בית הכנסת יקיים את ההילולה בתאריך ....",
-      "active": true,
-      "order": 0,
-      "durationSeconds": 100
-    }
-  ],
-  "activeMessages": [
-    {
-      "type": "announcement",
-      "title": "הילולת אור החיים הקדוש",
-      "body": "בית הכנסת יקיים את ההילולה בתאריך ....",
-      "durationSeconds": 100
-    }
-  ]
+  "activePresentations": [],
+  "presentationLibrary": []
 }
