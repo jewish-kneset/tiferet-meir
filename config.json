@@ -126,5 +126,24 @@
     ]
   },
   "activePresentations": [],
-  "presentationLibrary": []
+  "presentationLibrary": [],
+  "messageLibrary": [
+    {
+      "id": "msg_mser34vo_0",
+      "type": "announcement",
+      "title": "נסיון",
+      "body": "נסיון 123",
+      "active": true,
+      "order": 0,
+      "durationSeconds": 40
+    }
+  ],
+  "activeMessages": [
+    {
+      "type": "announcement",
+      "title": "נסיון",
+      "body": "נסיון 123",
+      "durationSeconds": 40
+    }
+  ]
 }
