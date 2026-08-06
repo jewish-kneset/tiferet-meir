@@ -5,7 +5,11 @@
   },
   "displaySettings": {
     "mainDashboardDurationSeconds": 60,
-    "presentationDurationSeconds": 20
+    "presentationDurationSeconds": 20,
+    "scheduleDaysAhead": {
+      "tv": 6,
+      "tablet": 2
+    }
   },
   "weeklySchedule": {
     "sunday": [
