@@ -130,37 +130,5 @@
     ]
   },
   "activePresentations": [],
-  "presentationLibrary": [],
-  "messageLibrary": [
-    {
-      "id": "msg_mser34vo_0",
-      "type": "announcement",
-      "title": "נסיון נסיון נסיון נסיון נסיון נסיון נסיון",
-      "body": "נסיון 123 נסיון 123נסיון 123נסיון 123נסיון 123נסיון 123נסיון 123נסיון 123נסיון 123",
-      "active": true,
-      "order": 0,
-      "durationSeconds": 40
-    },
-    {
-      "id": "msg_msg29myv_0",
-      "type": "donor",
-      "title": "שמעון שמעוני",
-      "body": "תרם עבור שושנה שושנית",
-      "active": true,
-      "order": 1
-    }
-  ],
-  "activeMessages": [
-    {
-      "type": "announcement",
-      "title": "נסיון נסיון נסיון נסיון נסיון נסיון נסיון",
-      "body": "נסיון 123 נסיון 123נסיון 123נסיון 123נסיון 123נסיון 123נסיון 123נסיון 123נסיון 123",
-      "durationSeconds": 40
-    },
-    {
-      "type": "donor",
-      "title": "שמעון שמעוני",
-      "body": "תרם עבור שושנה שושנית"
-    }
-  ]
+  "presentationLibrary": []
 }
