@@ -2,30 +2,13 @@
 <html lang="he" dir="rtl">
 <head>
   <meta charset="UTF-8" />
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'none'; script-src 'self'; connect-src 'self'; style-src 'unsafe-inline'; base-uri 'none'" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kneset Display</title>
-  <style>
-    body { font-family: sans-serif; background:#0b1020; color:#eee;
-           display:flex; align-items:center; justify-content:center;
-           height:100vh; margin:0; text-align:center; }
-    a { color: #6cf; }
-  </style>
 </head>
 <body>
-  <div>
-    <h1 id="name">בית כנסת חכם</h1>
-    <p>מסך התצוגה מנוהל באמצעות אפליקציית Smart Clock.</p>
-    <!-- Replace tiferet-meir with this repo's name (= tenant ID). See ONBOARDING.md Step 3. -->
-    <p>עריכת תוכן: <a href="https://jewish-kneset.github.io/kneset-cms/?tenant=tiferet-meir">ניהול תוכן</a></p>
-    <p id="tenant-info"></p>
-  </div>
-  <script>
-    // Show the synagogue name from config.json
-    fetch('./config.json').then(r=>r.json()).then(c=>{
-      document.getElementById('name').textContent = c.tenant.displayName;
-      document.getElementById('tenant-info').textContent =
-        'מזהה בית הכנסת: ' + c.tenant.id;
-    }).catch(()=>{});
-  </script>
+  <main id="app"></main>
+  <script src="./landing.js"></script>
 </body>
 </html>
