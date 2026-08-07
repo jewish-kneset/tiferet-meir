@@ -133,7 +133,8 @@
     {
       "title": "WhatsApp Image 2026-08-07 at 12.00.29",
       "file": "/presentations/1786099172457-whatsapp-image-2026-08-07-at-12.00.29.jpg",
-      "type": "image"
+      "type": "image",
+      "durationSeconds": 60
     }
   ],
   "presentationLibrary": [
@@ -143,7 +144,8 @@
       "file": "/presentations/1786099172457-whatsapp-image-2026-08-07-at-12.00.29.jpg",
       "type": "image",
       "active": true,
-      "order": 0
+      "order": 0,
+      "durationSeconds": 60
     }
   ]
 }
