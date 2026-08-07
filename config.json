@@ -12,122 +12,13 @@
     }
   },
   "weeklySchedule": {
-    "sunday": [
-      {
-        "time": "06:30",
-        "title": "שחרית",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_0"
-      },
-      {
-        "time": "21:00",
-        "title": "ערבית",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_2"
-      }
-    ],
-    "monday": [
-      {
-        "time": "06:20",
-        "title": "שחרית (קריאת התורה)",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_3"
-      },
-      {
-        "time": "21:00",
-        "title": "ערבית",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_4"
-      }
-    ],
-    "tuesday": [
-      {
-        "time": "06:30",
-        "title": "שחרית",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_5"
-      },
-      {
-        "time": "21:00",
-        "title": "ערבית",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_6"
-      }
-    ],
-    "wednesday": [
-      {
-        "time": "06:30",
-        "title": "שחרית",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_7"
-      },
-      {
-        "time": "21:00",
-        "title": "ערבית",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_8"
-      }
-    ],
-    "thursday": [
-      {
-        "time": "06:20",
-        "title": "שחרית (קריאת התורה)",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_9"
-      },
-      {
-        "time": "20:00",
-        "title": "שיעור פרשת השבוע",
-        "type": "shiur",
-        "id": "evt_ms1t8t24_a"
-      },
-      {
-        "time": "21:00",
-        "title": "ערבית",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_b"
-      }
-    ],
-    "friday": [
-      {
-        "time": "06:30",
-        "title": "שחרית",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_c"
-      },
-      {
-        "time": "18:30",
-        "title": "מנחה וקבלת שבת",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_d"
-      }
-    ],
-    "shabbat": [
-      {
-        "time": "08:00",
-        "title": "שחרית",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_e"
-      },
-      {
-        "time": "10:30",
-        "title": "קידוש",
-        "type": "event",
-        "id": "evt_ms1t8t24_f"
-      },
-      {
-        "time": "17:30",
-        "title": "מנחה",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_g"
-      },
-      {
-        "time": "18:45",
-        "title": "ערבית והבדלה",
-        "type": "tefilla",
-        "id": "evt_ms1t8t24_h"
-      }
-    ]
+    "sunday": [],
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "shabbat": []
   },
   "activePresentations": [
     {
