@@ -7,7 +7,7 @@
     "mainDashboardDurationSeconds": 60,
     "presentationDurationSeconds": 20,
     "scheduleDaysAhead": {
-      "tv": 5,
+      "tv": 4,
       "tablet": 2
     }
   },
