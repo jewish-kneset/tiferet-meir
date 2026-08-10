@@ -1,7 +1,8 @@
 {
   "tenant": {
     "id": "tiferet-meir",
-    "displayName": "תפארת מאיר"
+    "displayName": "תפארת מאיר",
+    "location": "נתיבות נווה שרון"
   },
   "displaySettings": {
     "mainDashboardDurationSeconds": 60,
@@ -12,13 +13,174 @@
     }
   },
   "weeklySchedule": {
-    "sunday": [],
-    "monday": [],
-    "tuesday": [],
-    "wednesday": [],
-    "thursday": [],
-    "friday": [],
-    "shabbat": []
+    "sunday": [
+      {
+        "id": "evt_msnfx3ww_h",
+        "groupId": "grp_msnfx3ww_g",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "netz",
+          "direction": "before",
+          "offsetMinutes": 40
+        },
+        "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msnfwref_1",
+        "groupId": "grp_msnfwref_0",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "time": "06:45",
+        "showOnShabbatAndYomTov": false
+      }
+    ],
+    "monday": [
+      {
+        "id": "evt_msnfxase_k",
+        "groupId": "grp_msnfx3ww_g",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "netz",
+          "direction": "before",
+          "offsetMinutes": 40
+        },
+        "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msnfwref_2",
+        "groupId": "grp_msnfwref_0",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "time": "06:45",
+        "showOnShabbatAndYomTov": false
+      }
+    ],
+    "tuesday": [
+      {
+        "id": "evt_msnfxase_l",
+        "groupId": "grp_msnfx3ww_g",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "netz",
+          "direction": "before",
+          "offsetMinutes": 40
+        },
+        "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msnfwref_3",
+        "groupId": "grp_msnfwref_0",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "time": "06:45",
+        "showOnShabbatAndYomTov": false
+      }
+    ],
+    "wednesday": [
+      {
+        "id": "evt_msnfxase_m",
+        "groupId": "grp_msnfx3ww_g",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "netz",
+          "direction": "before",
+          "offsetMinutes": 40
+        },
+        "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msnfwref_4",
+        "groupId": "grp_msnfwref_0",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "time": "06:45",
+        "showOnShabbatAndYomTov": false
+      }
+    ],
+    "thursday": [
+      {
+        "id": "evt_msnfxase_n",
+        "groupId": "grp_msnfx3ww_g",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "netz",
+          "direction": "before",
+          "offsetMinutes": 40
+        },
+        "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msnfwref_5",
+        "groupId": "grp_msnfwref_0",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "time": "06:45",
+        "showOnShabbatAndYomTov": false
+      }
+    ],
+    "friday": [
+      {
+        "id": "evt_msnfxase_o",
+        "groupId": "grp_msnfx3ww_g",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "netz",
+          "direction": "before",
+          "offsetMinutes": 40
+        },
+        "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msnfwref_6",
+        "groupId": "grp_msnfwref_0",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "time": "06:45",
+        "showOnShabbatAndYomTov": false
+      }
+    ],
+    "shabbat": [
+      {
+        "id": "evt_msnfxase_p",
+        "groupId": "grp_msnfx3ww_g",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "netz",
+          "direction": "before",
+          "offsetMinutes": 40
+        },
+        "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msnfwref_7",
+        "groupId": "grp_msnfwref_0",
+        "title": "שחרית",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "time": "06:45",
+        "showOnShabbatAndYomTov": false
+      }
+    ]
   },
   "activePresentations": [
     {
