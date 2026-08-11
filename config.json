@@ -54,7 +54,7 @@
         "dynamicTime": {
           "anchor": "plagMincha",
           "direction": "before",
-          "offsetMinutes": 20
+          "offsetMinutes": 15
         },
         "showOnShabbatAndYomTov": false
       }
@@ -100,7 +100,7 @@
         "dynamicTime": {
           "anchor": "plagMincha",
           "direction": "before",
-          "offsetMinutes": 20
+          "offsetMinutes": 15
         },
         "showOnShabbatAndYomTov": false
       }
@@ -146,7 +146,7 @@
         "dynamicTime": {
           "anchor": "plagMincha",
           "direction": "before",
-          "offsetMinutes": 20
+          "offsetMinutes": 15
         },
         "showOnShabbatAndYomTov": false
       }
@@ -192,7 +192,7 @@
         "dynamicTime": {
           "anchor": "plagMincha",
           "direction": "before",
-          "offsetMinutes": 20
+          "offsetMinutes": 15
         },
         "showOnShabbatAndYomTov": false
       }
@@ -238,7 +238,7 @@
         "dynamicTime": {
           "anchor": "plagMincha",
           "direction": "before",
-          "offsetMinutes": 20
+          "offsetMinutes": 15
         },
         "showOnShabbatAndYomTov": false
       }
