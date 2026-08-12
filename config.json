@@ -57,6 +57,19 @@
           "offsetMinutes": 15
         },
         "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msqa8aeb_1",
+        "groupId": "grp_msqa8aeb_0",
+        "title": "מנחה",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "shkiah",
+          "direction": "before",
+          "offsetMinutes": 15
+        },
+        "showOnShabbatAndYomTov": false
       }
     ],
     "monday": [
@@ -99,6 +112,19 @@
         "dayScope": "cholOnly",
         "dynamicTime": {
           "anchor": "plagMincha",
+          "direction": "before",
+          "offsetMinutes": 15
+        },
+        "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msqa8aeb_2",
+        "groupId": "grp_msqa8aeb_0",
+        "title": "מנחה",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "shkiah",
           "direction": "before",
           "offsetMinutes": 15
         },
@@ -149,6 +175,19 @@
           "offsetMinutes": 15
         },
         "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msqa8aeb_3",
+        "groupId": "grp_msqa8aeb_0",
+        "title": "מנחה",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "shkiah",
+          "direction": "before",
+          "offsetMinutes": 15
+        },
+        "showOnShabbatAndYomTov": false
       }
     ],
     "wednesday": [
@@ -195,6 +234,19 @@
           "offsetMinutes": 15
         },
         "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msqa8aeb_4",
+        "groupId": "grp_msqa8aeb_0",
+        "title": "מנחה",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "shkiah",
+          "direction": "before",
+          "offsetMinutes": 15
+        },
+        "showOnShabbatAndYomTov": false
       }
     ],
     "thursday": [
@@ -237,6 +289,19 @@
         "dayScope": "cholOnly",
         "dynamicTime": {
           "anchor": "plagMincha",
+          "direction": "before",
+          "offsetMinutes": 15
+        },
+        "showOnShabbatAndYomTov": false
+      },
+      {
+        "id": "evt_msqa8aeb_5",
+        "groupId": "grp_msqa8aeb_0",
+        "title": "מנחה",
+        "type": "tefilla",
+        "dayScope": "cholOnly",
+        "dynamicTime": {
+          "anchor": "shkiah",
           "direction": "before",
           "offsetMinutes": 15
         },
