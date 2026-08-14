@@ -387,24 +387,5 @@
       "order": 0,
       "durationSeconds": 60
     }
-  ],
-  "messageLibrary": [
-    {
-      "id": "msg_mssyjnd2_0",
-      "type": "announcement",
-      "title": "נסיון נסיון",
-      "body": "סתם",
-      "active": true,
-      "order": 0,
-      "durationSeconds": 25
-    }
-  ],
-  "activeMessages": [
-    {
-      "type": "announcement",
-      "title": "נסיון נסיון",
-      "body": "סתם",
-      "durationSeconds": 25
-    }
   ]
 }
