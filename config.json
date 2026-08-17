@@ -369,21 +369,6 @@
       }
     ]
   },
-  "activePresentations": [
-    {
-      "title": "WhatsApp Image 2026-08-16 at 15.14.39",
-      "file": "/presentations/1786887032129-whatsapp-image-2026-08-16-at-15.14.39.jpg",
-      "type": "image"
-    }
-  ],
-  "presentationLibrary": [
-    {
-      "id": "prs_msvuek4m_0",
-      "title": "WhatsApp Image 2026-08-16 at 15.14.39",
-      "file": "/presentations/1786887032129-whatsapp-image-2026-08-16-at-15.14.39.jpg",
-      "type": "image",
-      "active": true,
-      "order": 0
-    }
-  ]
+  "activePresentations": [],
+  "presentationLibrary": []
 }
