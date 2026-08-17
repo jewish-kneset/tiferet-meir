@@ -369,6 +369,21 @@
       }
     ]
   },
-  "activePresentations": [],
-  "presentationLibrary": []
+  "activePresentations": [
+    {
+      "title": "IMG-20260816-WA0005",
+      "file": "/presentations/1786985701222-img-20260816-wa0005.jpg",
+      "type": "image"
+    }
+  ],
+  "presentationLibrary": [
+    {
+      "id": "prs_msxh5i3r_0",
+      "title": "IMG-20260816-WA0005",
+      "file": "/presentations/1786985701222-img-20260816-wa0005.jpg",
+      "type": "image",
+      "active": true,
+      "order": 0
+    }
+  ]
 }
