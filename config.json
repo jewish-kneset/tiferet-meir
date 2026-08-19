@@ -374,6 +374,11 @@
       "title": "IMG-20260816-WA0005",
       "file": "/presentations/1786985701222-img-20260816-wa0005.jpg",
       "type": "image"
+    },
+    {
+      "title": "IMG-20260819-WA0003",
+      "file": "/presentations/1787122166107-img-20260819-wa0003.jpg",
+      "type": "image"
     }
   ],
   "presentationLibrary": [
@@ -384,6 +389,14 @@
       "type": "image",
       "active": true,
       "order": 0
+    },
+    {
+      "id": "prs_mszqebc2_0",
+      "title": "IMG-20260819-WA0003",
+      "file": "/presentations/1787122166107-img-20260819-wa0003.jpg",
+      "type": "image",
+      "active": true,
+      "order": 1
     }
   ]
 }
