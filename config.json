@@ -14,6 +14,10 @@
     "zmanimCount": {
       "tv": "screen",
       "tablet": "screen"
+    },
+    "scheduleView": {
+      "tv": "screen",
+      "tablet": "screen"
     }
   },
   "weeklySchedule": {
@@ -371,13 +375,13 @@
   },
   "activePresentations": [
     {
-      "title": "IMG-20260816-WA0005",
-      "file": "/presentations/1786985701222-img-20260816-wa0005.jpg",
+      "title": "IMG-20260819-WA0003",
+      "file": "/presentations/1787122166107-img-20260819-wa0003.jpg",
       "type": "image"
     },
     {
-      "title": "IMG-20260819-WA0003",
-      "file": "/presentations/1787122166107-img-20260819-wa0003.jpg",
+      "title": "פרשת כי תצא",
+      "file": "/presentations/1787431794163--.jpg",
       "type": "image"
     }
   ],
@@ -387,7 +391,7 @@
       "title": "IMG-20260816-WA0005",
       "file": "/presentations/1786985701222-img-20260816-wa0005.jpg",
       "type": "image",
-      "active": true,
+      "active": false,
       "order": 0
     },
     {
@@ -397,6 +401,14 @@
       "type": "image",
       "active": true,
       "order": 1
+    },
+    {
+      "id": "prs_mt4uqq55_0",
+      "title": "פרשת כי תצא",
+      "file": "/presentations/1787431794163--.jpg",
+      "type": "image",
+      "active": true,
+      "order": 2
     }
   ]
 }
